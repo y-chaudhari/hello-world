@@ -1,0 +1,2 @@
+Hello there.
+Inside MyFile1.txt
